@@ -275,7 +275,7 @@ Before you begin, make sure you have the following installed:
 ### Step 1 – Clone the Repository
 
 ```powershell
-git clone https://github.com/Smita-Mhatugade/Solar_and_Wind_Deployment_Intelligence_Platform.git
+git clone https://github.com/deepu-502/Solar_-_Wind_Deployment_Intelligence_Platform.git
 cd "Solar_and_Wind_Deployment_Intelligence_Platform"
 cd "solar-wind-deployment-intelligence"
 ```
